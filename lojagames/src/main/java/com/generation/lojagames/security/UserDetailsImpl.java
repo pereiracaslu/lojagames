@@ -1,5 +1,5 @@
 
-package com.generention.lojagames.security;
+package com.generation.lojagames.security;
 import java.util.Collection;
 import java.util.List;
 

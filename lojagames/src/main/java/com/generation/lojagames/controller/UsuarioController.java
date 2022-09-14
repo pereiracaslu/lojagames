@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.generation.lojagames.model.UsuarioLogin;
 import com.generation.lojagames.model.UsuarioModel;
 import com.generation.lojagames.repository.UsuarioRepository;
-import com.generention.lojagames.service.UsuarioService;
+import com.generation.lojagames.service.UsuarioService;
 
 @RestController
 @RequestMapping("/usuarios")

@@ -1,4 +1,4 @@
-package com.generention.lojagames.service;
+package com.generation.lojagames.service;
 
 
 import java.nio.charset.Charset;
@@ -14,7 +14,7 @@ import org.springframework.web.server.ResponseStatusException;
 import com.generation.lojagames.model.UsuarioLogin;
 import com.generation.lojagames.model.UsuarioModel;
 import com.generation.lojagames.repository.UsuarioRepository;
-import com.generention.lojagames.service.UsuarioService;
+import com.generation.lojagames.service.UsuarioService;
 
 @Service
 public class UsuarioService {
